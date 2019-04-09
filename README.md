@@ -15,7 +15,7 @@ https://github.com/allaedding/hajj-hackathon_webservice
 
 ## overview:
 
-the idea was to create a full guide system for the Pilgrims:
+the idea was to create a full guide system for the Pilgrims with the use of google Cloud AI:
 
 1-  watter source.
 
